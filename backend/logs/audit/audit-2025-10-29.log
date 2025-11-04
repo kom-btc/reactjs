@@ -1,0 +1,25 @@
+{"level":"info","message":"Server started on port 5000","timestamp":"2025-10-29 16:20:34"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-10-29 16:22:09"}
+{"level":"info","message":{"action":"LOGIN","ipAddress":"::1","method":"POST","path":"/login","resource":"AUTH","resourceId":null,"statusCode":200,"timestamp":"2025-10-29T09:22:09.939Z","userId":null,"username":"anonymous"},"timestamp":"2025-10-29 16:22:09"}
+{"level":"info","message":"GET /api/users","timestamp":"2025-10-29 16:22:10"}
+{"level":"info","message":"GET /api/groups","timestamp":"2025-10-29 16:22:10"}
+{"level":"info","message":"GET /api/menus","timestamp":"2025-10-29 16:22:10"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"USERS","resourceId":null,"statusCode":200,"timestamp":"2025-10-29T09:22:10.026Z","userId":1,"username":"admin"},"timestamp":"2025-10-29 16:22:10"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"GROUPS","resourceId":null,"statusCode":200,"timestamp":"2025-10-29T09:22:10.027Z","userId":1,"username":"admin"},"timestamp":"2025-10-29 16:22:10"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"MENUS","resourceId":null,"statusCode":200,"timestamp":"2025-10-29T09:22:10.029Z","userId":1,"username":"admin"},"timestamp":"2025-10-29 16:22:10"}
+{"level":"info","message":"GET /api/users","timestamp":"2025-10-29 16:22:10"}
+{"level":"info","message":"GET /api/groups","timestamp":"2025-10-29 16:22:10"}
+{"level":"info","message":"GET /api/menus","timestamp":"2025-10-29 16:22:10"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"GROUPS","resourceId":null,"statusCode":200,"timestamp":"2025-10-29T09:22:10.043Z","userId":1,"username":"admin"},"timestamp":"2025-10-29 16:22:10"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"USERS","resourceId":null,"statusCode":200,"timestamp":"2025-10-29T09:22:10.044Z","userId":1,"username":"admin"},"timestamp":"2025-10-29 16:22:10"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"MENUS","resourceId":null,"statusCode":200,"timestamp":"2025-10-29T09:22:10.052Z","userId":1,"username":"admin"},"timestamp":"2025-10-29 16:22:10"}
+{"level":"info","message":"GET /api/users","timestamp":"2025-10-29 16:22:45"}
+{"level":"info","message":"GET /api/groups","timestamp":"2025-10-29 16:22:45"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"USERS","resourceId":null,"statusCode":200,"timestamp":"2025-10-29T09:22:45.149Z","userId":1,"username":"admin"},"timestamp":"2025-10-29 16:22:45"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"GROUPS","resourceId":null,"statusCode":200,"timestamp":"2025-10-29T09:22:45.149Z","userId":1,"username":"admin"},"timestamp":"2025-10-29 16:22:45"}
+{"level":"info","message":"GET /api/users","timestamp":"2025-10-29 16:22:45"}
+{"level":"info","message":"GET /api/groups","timestamp":"2025-10-29 16:22:45"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"USERS","resourceId":null,"statusCode":200,"timestamp":"2025-10-29T09:22:45.157Z","userId":1,"username":"admin"},"timestamp":"2025-10-29 16:22:45"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"GROUPS","resourceId":null,"statusCode":200,"timestamp":"2025-10-29T09:22:45.158Z","userId":1,"username":"admin"},"timestamp":"2025-10-29 16:22:45"}
+{"level":"info","message":"POST /api/users","timestamp":"2025-10-29 16:23:56"}
+{"level":"info","message":{"action":"CREATE","ipAddress":"::1","method":"POST","path":"/","resource":"USER","resourceId":null,"statusCode":500,"timestamp":"2025-10-29T09:23:56.696Z","userId":1,"username":"admin"},"timestamp":"2025-10-29 16:23:56"}

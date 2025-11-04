@@ -1,0 +1,127 @@
+{"level":"info","message":"Server started on port 5000","timestamp":"2025-11-03 09:26:25"}
+{"level":"info","message":"Server started on port 5000","timestamp":"2025-11-03 09:28:01"}
+{"level":"info","message":"Server started on port 5000","timestamp":"2025-11-03 09:28:01"}
+{"level":"info","message":"GET /api/users","timestamp":"2025-11-03 09:28:10"}
+{"level":"info","message":"GET /api/groups","timestamp":"2025-11-03 09:28:10"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"USERS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:28:10.458Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:28:10"}
+{"level":"info","message":"GET /api/users","timestamp":"2025-11-03 09:28:10"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"USERS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:28:10.465Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:28:10"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"GROUPS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:28:10.469Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:28:10"}
+{"level":"info","message":"GET /api/groups","timestamp":"2025-11-03 09:28:10"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"GROUPS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:28:10.473Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:28:10"}
+{"level":"info","message":"PUT /api/users/2/reset-password","timestamp":"2025-11-03 09:28:40"}
+{"level":"info","message":{"action":"RESET_PASSWORD","ipAddress":"::1","method":"PUT","path":"/2/reset-password","resource":"USERS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:28:40.643Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:28:40"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-11-03 09:29:04"}
+{"level":"info","message":{"action":"LOGIN","ipAddress":"::1","method":"POST","path":"/login","resource":"AUTH","resourceId":null,"statusCode":401,"timestamp":"2025-11-03T02:29:04.543Z","userId":null,"username":"anonymous"},"timestamp":"2025-11-03 09:29:04"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-11-03 09:29:36"}
+{"level":"info","message":{"action":"LOGIN","ipAddress":"::1","method":"POST","path":"/login","resource":"AUTH","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:29:36.962Z","userId":null,"username":"anonymous"},"timestamp":"2025-11-03 09:29:36"}
+{"level":"info","message":"GET /api/users","timestamp":"2025-11-03 09:29:37"}
+{"level":"info","message":"GET /api/groups","timestamp":"2025-11-03 09:29:37"}
+{"level":"info","message":"GET /api/menus","timestamp":"2025-11-03 09:29:37"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"USERS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:29:37.048Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:29:37"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"MENUS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:29:37.052Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:29:37"}
+{"level":"info","message":"GET /api/users","timestamp":"2025-11-03 09:29:37"}
+{"level":"info","message":"GET /api/menus","timestamp":"2025-11-03 09:29:37"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"USERS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:29:37.058Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:29:37"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"GROUPS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:29:37.059Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:29:37"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"MENUS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:29:37.063Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:29:37"}
+{"level":"info","message":"GET /api/groups","timestamp":"2025-11-03 09:29:37"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"GROUPS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:29:37.069Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:29:37"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-11-03 09:29:53"}
+{"level":"info","message":{"action":"LOGIN","ipAddress":"::1","method":"POST","path":"/login","resource":"AUTH","resourceId":null,"statusCode":401,"timestamp":"2025-11-03T02:29:53.255Z","userId":null,"username":"anonymous"},"timestamp":"2025-11-03 09:29:53"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-11-03 09:30:18"}
+{"level":"info","message":{"action":"LOGIN","ipAddress":"::1","method":"POST","path":"/login","resource":"AUTH","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:30:19.013Z","userId":null,"username":"anonymous"},"timestamp":"2025-11-03 09:30:19"}
+{"level":"info","message":"GET /api/users","timestamp":"2025-11-03 09:30:19"}
+{"level":"info","message":"GET /api/groups","timestamp":"2025-11-03 09:30:19"}
+{"level":"info","message":"GET /api/menus","timestamp":"2025-11-03 09:30:19"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"USERS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:30:19.086Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:30:19"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"MENUS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:30:19.086Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:30:19"}
+{"level":"info","message":"GET /api/users","timestamp":"2025-11-03 09:30:19"}
+{"level":"info","message":"GET /api/menus","timestamp":"2025-11-03 09:30:19"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"USERS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:30:19.096Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:30:19"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"MENUS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:30:19.098Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:30:19"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"GROUPS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:30:19.104Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:30:19"}
+{"level":"info","message":"GET /api/groups","timestamp":"2025-11-03 09:30:19"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"GROUPS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:30:19.107Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:30:19"}
+{"level":"info","message":"GET /api/groups","timestamp":"2025-11-03 09:30:23"}
+{"level":"info","message":"GET /api/menus","timestamp":"2025-11-03 09:30:23"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"MENUS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:30:23.417Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:30:23"}
+{"level":"info","message":"GET /api/menus","timestamp":"2025-11-03 09:30:23"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"GROUPS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:30:23.425Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:30:23"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"MENUS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:30:23.427Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:30:23"}
+{"level":"info","message":"GET /api/groups","timestamp":"2025-11-03 09:30:23"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"GROUPS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:30:23.434Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:30:23"}
+{"level":"info","message":"GET /api/users","timestamp":"2025-11-03 09:30:25"}
+{"level":"info","message":"GET /api/groups","timestamp":"2025-11-03 09:30:25"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"USERS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:30:25.138Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:30:25"}
+{"level":"info","message":"GET /api/users","timestamp":"2025-11-03 09:30:25"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"USERS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:30:25.141Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:30:25"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"GROUPS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:30:25.142Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:30:25"}
+{"level":"info","message":"GET /api/groups","timestamp":"2025-11-03 09:30:25"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"GROUPS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:30:25.147Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:30:25"}
+{"level":"info","message":"PUT /api/users/2/reset-password","timestamp":"2025-11-03 09:30:48"}
+{"level":"info","message":{"action":"RESET_PASSWORD","ipAddress":"::1","method":"PUT","path":"/2/reset-password","resource":"USERS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:30:48.734Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:30:48"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-11-03 09:31:05"}
+{"level":"info","message":{"action":"LOGIN","ipAddress":"::1","method":"POST","path":"/login","resource":"AUTH","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:31:05.808Z","userId":null,"username":"anonymous"},"timestamp":"2025-11-03 09:31:05"}
+{"level":"info","message":"GET /api/permissions/audit-logs","timestamp":"2025-11-03 09:42:35"}
+{"level":"info","message":"GET /api/permissions/audit-logs","timestamp":"2025-11-03 09:42:35"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-11-03 09:54:49"}
+{"level":"info","message":{"action":"LOGIN","ipAddress":"::1","method":"POST","path":"/login","resource":"AUTH","resourceId":null,"statusCode":401,"timestamp":"2025-11-03T02:54:49.749Z","userId":null,"username":"anonymous"},"timestamp":"2025-11-03 09:54:49"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-11-03 09:55:00"}
+{"level":"info","message":{"action":"LOGIN","ipAddress":"::1","method":"POST","path":"/login","resource":"AUTH","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:55:00.527Z","userId":null,"username":"anonymous"},"timestamp":"2025-11-03 09:55:00"}
+{"level":"info","message":"GET /api/users","timestamp":"2025-11-03 09:55:00"}
+{"level":"info","message":"GET /api/groups","timestamp":"2025-11-03 09:55:00"}
+{"level":"info","message":"GET /api/menus","timestamp":"2025-11-03 09:55:00"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"USERS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:55:00.586Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:55:00"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"MENUS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:55:00.590Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:55:00"}
+{"level":"info","message":"GET /api/users","timestamp":"2025-11-03 09:55:00"}
+{"level":"info","message":"GET /api/menus","timestamp":"2025-11-03 09:55:00"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"USERS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:55:00.594Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:55:00"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"MENUS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:55:00.599Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:55:00"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"GROUPS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:55:00.601Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:55:00"}
+{"level":"info","message":"GET /api/groups","timestamp":"2025-11-03 09:55:00"}
+{"level":"info","message":{"action":"VIEW_ALL","ipAddress":"::1","method":"GET","path":"/","resource":"GROUPS","resourceId":null,"statusCode":200,"timestamp":"2025-11-03T02:55:00.607Z","userId":1,"username":"admin"},"timestamp":"2025-11-03 09:55:00"}
+{"level":"info","message":"GET /api/permissions/audit-logs","timestamp":"2025-11-03 09:55:05"}
+{"level":"info","message":"GET /api/permissions/audit-logs","timestamp":"2025-11-03 09:55:05"}
+{"level":"info","message":"Server started on port 5000","timestamp":"2025-11-03 10:18:23"}
+{"level":"info","message":"Server started on port 5000","timestamp":"2025-11-03 10:18:43"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-11-03 10:19:41"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-11-03 10:19:50"}
+{"level":"info","message":"GET /api/users","timestamp":"2025-11-03 10:19:50"}
+{"level":"info","message":"GET /api/groups","timestamp":"2025-11-03 10:19:50"}
+{"level":"info","message":"GET /api/menus","timestamp":"2025-11-03 10:19:50"}
+{"level":"error","message":"Error: Cannot read properties of undefined (reading 'id')","stack":"TypeError: Cannot read properties of undefined (reading 'id')\n    at res.send (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\middleware\\auditLog.js:17:73)\n    at ServerResponse.json (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\node_modules\\express\\lib\\response.js:250:15)\n    at getAllUsers (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\controllers\\userController.js:217:21)","timestamp":"2025-11-03 10:19:50"}
+{"level":"error","message":"Error: Cannot read properties of undefined (reading 'id')","stack":"TypeError: Cannot read properties of undefined (reading 'id')\n    at res.send (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\middleware\\auditLog.js:17:73)\n    at ServerResponse.json (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\node_modules\\express\\lib\\response.js:250:15)\n    at getAllMenus (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\controllers\\menuController.js:33:21)","timestamp":"2025-11-03 10:19:50"}
+{"level":"info","message":"GET /api/users","timestamp":"2025-11-03 10:19:50"}
+{"level":"info","message":"GET /api/menus","timestamp":"2025-11-03 10:19:50"}
+{"level":"error","message":"Error: Cannot read properties of undefined (reading 'id')","stack":"TypeError: Cannot read properties of undefined (reading 'id')\n    at res.send (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\middleware\\auditLog.js:17:73)\n    at ServerResponse.json (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\node_modules\\express\\lib\\response.js:250:15)\n    at getAllUsers (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\controllers\\userController.js:217:21)","timestamp":"2025-11-03 10:19:50"}
+{"level":"error","message":"Error: Cannot read properties of undefined (reading 'id')","stack":"TypeError: Cannot read properties of undefined (reading 'id')\n    at res.send (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\middleware\\auditLog.js:17:73)\n    at ServerResponse.json (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\node_modules\\express\\lib\\response.js:250:15)\n    at getAllGroups (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\controllers\\groupController.js:42:21)","timestamp":"2025-11-03 10:19:50"}
+{"level":"error","message":"Error: Cannot read properties of undefined (reading 'id')","stack":"TypeError: Cannot read properties of undefined (reading 'id')\n    at res.send (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\middleware\\auditLog.js:17:73)\n    at ServerResponse.json (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\node_modules\\express\\lib\\response.js:250:15)\n    at getAllMenus (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\controllers\\menuController.js:33:21)","timestamp":"2025-11-03 10:19:50"}
+{"level":"info","message":"GET /api/groups","timestamp":"2025-11-03 10:19:50"}
+{"level":"error","message":"Error: Cannot read properties of undefined (reading 'id')","stack":"TypeError: Cannot read properties of undefined (reading 'id')\n    at res.send (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\middleware\\auditLog.js:17:73)\n    at ServerResponse.json (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\node_modules\\express\\lib\\response.js:250:15)\n    at getAllGroups (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\controllers\\groupController.js:42:21)","timestamp":"2025-11-03 10:19:50"}
+{"level":"info","message":"GET /api/permissions/audit-logs","timestamp":"2025-11-03 10:19:53"}
+{"level":"info","message":"GET /api/permissions/audit-logs","timestamp":"2025-11-03 10:19:53"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-11-03 10:20:16"}
+{"level":"info","message":"GET /api/permissions/audit-logs","timestamp":"2025-11-03 10:20:18"}
+{"level":"info","message":"GET /api/permissions/audit-logs","timestamp":"2025-11-03 10:20:18"}
+{"level":"info","message":"Server started on port 5000","timestamp":"2025-11-03 10:41:30"}
+{"level":"info","message":"Server started on port 5000","timestamp":"2025-11-03 10:41:58"}
+{"level":"info","message":"Server started on port 5000","timestamp":"2025-11-03 10:42:12"}
+{"level":"info","message":"Server started on port 5000","timestamp":"2025-11-03 10:42:13"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-11-03 10:42:37"}
+{"level":"info","message":"GET /api/permissions/audit-logs","timestamp":"2025-11-03 10:42:40"}
+{"level":"info","message":"GET /api/permissions/audit-logs","timestamp":"2025-11-03 10:42:40"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-11-03 10:42:57"}
+{"level":"info","message":"GET /api/users","timestamp":"2025-11-03 10:42:57"}
+{"level":"info","message":"GET /api/groups","timestamp":"2025-11-03 10:42:57"}
+{"level":"info","message":"GET /api/menus","timestamp":"2025-11-03 10:42:57"}
+{"level":"error","message":"Error: Cannot read properties of undefined (reading 'id')","stack":"TypeError: Cannot read properties of undefined (reading 'id')\n    at res.send (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\middleware\\auditLog.js:25:73)\n    at ServerResponse.json (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\node_modules\\express\\lib\\response.js:250:15)\n    at getAllUsers (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\controllers\\userController.js:217:21)","timestamp":"2025-11-03 10:42:57"}
+{"level":"error","message":"Error: Cannot read properties of undefined (reading 'id')","stack":"TypeError: Cannot read properties of undefined (reading 'id')\n    at res.send (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\middleware\\auditLog.js:25:73)\n    at ServerResponse.json (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\node_modules\\express\\lib\\response.js:250:15)\n    at getAllMenus (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\controllers\\menuController.js:33:21)","timestamp":"2025-11-03 10:42:57"}
+{"level":"info","message":"GET /api/users","timestamp":"2025-11-03 10:42:58"}
+{"level":"info","message":"GET /api/menus","timestamp":"2025-11-03 10:42:58"}
+{"level":"error","message":"Error: Cannot read properties of undefined (reading 'id')","stack":"TypeError: Cannot read properties of undefined (reading 'id')\n    at res.send (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\middleware\\auditLog.js:25:73)\n    at ServerResponse.json (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\node_modules\\express\\lib\\response.js:250:15)\n    at getAllUsers (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\controllers\\userController.js:217:21)","timestamp":"2025-11-03 10:42:58"}
+{"level":"error","message":"Error: Cannot read properties of undefined (reading 'id')","stack":"TypeError: Cannot read properties of undefined (reading 'id')\n    at res.send (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\middleware\\auditLog.js:25:73)\n    at ServerResponse.json (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\node_modules\\express\\lib\\response.js:250:15)\n    at getAllGroups (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\controllers\\groupController.js:42:21)","timestamp":"2025-11-03 10:42:58"}
+{"level":"error","message":"Error: Cannot read properties of undefined (reading 'id')","stack":"TypeError: Cannot read properties of undefined (reading 'id')\n    at res.send (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\middleware\\auditLog.js:25:73)\n    at ServerResponse.json (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\node_modules\\express\\lib\\response.js:250:15)\n    at getAllMenus (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\controllers\\menuController.js:33:21)","timestamp":"2025-11-03 10:42:58"}
+{"level":"info","message":"GET /api/groups","timestamp":"2025-11-03 10:42:58"}
+{"level":"error","message":"Error: Cannot read properties of undefined (reading 'id')","stack":"TypeError: Cannot read properties of undefined (reading 'id')\n    at res.send (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\middleware\\auditLog.js:25:73)\n    at ServerResponse.json (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\node_modules\\express\\lib\\response.js:250:15)\n    at getAllGroups (E:\\dev_zone\\React_Nodejs\\project-root\\backend\\controllers\\groupController.js:42:21)","timestamp":"2025-11-03 10:42:58"}
+{"level":"info","message":"GET /api/auth/login","timestamp":"2025-11-03 10:43:51"}
